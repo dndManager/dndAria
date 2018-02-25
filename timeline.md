@@ -1,40 +1,9 @@
 # D&D Aria Timeline
 
-## 4 Feb 2018
+## First year
 
-Alidris made 3 maps for Matilda:
+## Second year
 
-- Red orb map was okay
-- Island map was the best
-- Area map was 
-
-
-Head out to Leafland via Siridila (where Alidris's map shop is).
-Tried to dock boat at Laketown, but it was too expensive.
-Left the boat with Jeff Boatstash and stayed overnight. 
-
-Ogre killed a Displacer Beast and the Team killed 3 Ogres. 
-Recovered some money 
-
-
-## 18 Feb 2018
-
-Two ogres come to check on their buddies. 
-The Team successfully evades them.
-The ogres grab the Displacer Beast corpse and head back NE.
-
-Alidris casts Alarm and Find Familiar (Raven) as a rituals.
-Vargan plans to cast Aid at midday. 
-
-The Team plans to track the ogres hoping to find a hideout.
-Team finds a livestock field with a fence that has been trampled.
-Alidris fixes the fence with some hard work. 
-
-Find 2600 CP, 1500 SP, 40 GP, and 7 gems worth 50 gp each.
-
-Spent the night at a farmhouse that was not abandoned but nobody was home.
-The following day the temperature dropped to 30 F below normal, 
-i.e. below freezing. 
-The party continued on 2 hours up the trail and found two people to a trail 
-off to the east that do not appear to be moving.
+- [Heading to Leafland](timeline/20180204.html)
+- [Assault on ogre camp](timeline/20180218.html)
 
