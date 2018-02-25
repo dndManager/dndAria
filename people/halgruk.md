@@ -1,3 +1,3 @@
 # Halgruk
 
-Halgruk is a barbarian and headmaster of [EPIC](places/EPIC.md).
+Halgruk is a barbarian and headmaster of [EPIC](places/epic.md).
