@@ -1,3 +1,3 @@
 # Hulda
 
-Innkeeper at [The Gateway](places/gateway.html).
+Innkeeper at [The Gateway](../places/gateway.html).
