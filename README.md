@@ -1,7 +1,7 @@
 # D&D Aria
 
 This is the setting for an adventure with Sevro, Vargan, Errich, and Alidris 
-who are 4 students at [EPIC](places/epic.html).
+who are 4 students at [EPIC](places/EPIC.html).
 
 ## People
 
@@ -12,6 +12,6 @@ who are 4 students at [EPIC](places/epic.html).
 
 ## Places
 
-- [EPIC](places/epic.html)
+- [EPIC](places/EPIC.html)
 - [Grakas](places/grakas.html)
 - [The Gateway](places/gateway.html)
