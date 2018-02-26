@@ -3,6 +3,9 @@
 This is the setting for an adventure with Sevro, Vargan, Errich, and Alidris 
 who are 4 students at [EPIC](places/EPIC.html).
 
+If you want to edit it, edit the markdown (md) files using 
+[Github flavored markdown](https://github.github.com/gfm/).
+
 ## People
 
 - [Halgruk](people/halgruk.html)
