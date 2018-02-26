@@ -18,3 +18,7 @@ If you want to edit it, edit the markdown (md) files using
 - [EPIC](places/EPIC.html)
 - [Grakas](places/grakas.html)
 - [The Gateway](places/gateway.html)
+
+## Random notes
+
+- [Watch rotation](notes/watch.html)
