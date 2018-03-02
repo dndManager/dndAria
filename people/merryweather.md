@@ -1,3 +1,3 @@
 # Merryweather
 
-Innkeeper in Grakas
+Innkeeper in [Grakas](../places/grakas.html).

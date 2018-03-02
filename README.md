@@ -26,10 +26,19 @@ For more detailed information, visit the [timeline](timeline.html).
 
 
 - [Fortunate Peninsula](places/fortuna.html)
-  - [Halgruk](people/halgruk.html)
-  - [Matlida](people/matilda.html)
-  - [Hama](people/hama.html)
-  - [Hulda](people/hulda.html)
+  - [EPIC](places/epic.html)
+    - [Halgruk](people/halgruk.html)
+    - [Matlida](people/matilda.html)
+    - [Muhki](people/muhki.html)
+    - [Roque](people/roque.html)
+  - [Leoni](places/leoni.html)
+    - [Geoffrey](people/geoffrey.html)
+  - [The Gateway](places/gateway.html)
+    - [Hulda](people/hulda.html)
+  - [Silver Mining Corportion](places/smc.html)
+    - [Henrik](people/henrik.html)
+  - Other
+    - [Hama](people/hama.html)
 
 ## Places
 
@@ -38,7 +47,6 @@ For more detailed information, visit the [timeline](timeline.html).
   - [EPIC](places/EPIC.html)
   - [Grakas](places/grakas.html)
   - [The Gateway](places/gateway.html)
-  - [Silver Mining Corportion](places/smc.html)
 
 ## Random notes
 
