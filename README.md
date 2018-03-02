@@ -7,7 +7,7 @@ who are 4 students at [EPIC](places/EPIC.html).
 
 
 If you want to edit it, edit the markdown (md) files using 
-[Github flavored markdown](https://github.github.com/gfm/)
+[Github flavored markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 by editing the files on the 
 [github site](https://github.com/dndManager/dndAria).
 
