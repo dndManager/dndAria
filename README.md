@@ -25,7 +25,7 @@ For more detailed information, visit the [timeline](timeline.html).
 ## People
 
 
-- [Fortunate Peninsula](places/fortuna.html)
+- [Fortuna Peninsula](places/fortuna.html)
   - [EPIC](places/epic.html)
     - [Halgruk](people/halgruk.html)
     - [Matlida](people/matilda.html)
