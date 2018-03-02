@@ -42,7 +42,7 @@ For more detailed information, visit the [timeline](timeline.html).
 
 ## Places
 
-- [Fortunate Peninsula](places/fortuna.html)
+- [Fortuna Peninsula](places/fortuna.html)
   - [Leoni](places/leoni.html)
   - [EPIC](places/EPIC.html)
   - [Grakas](places/grakas.html)
