@@ -7,11 +7,11 @@ There is a reunion of sorts at dinner, where the 2nd years who were away for the
 
 The next day, the 2nd years row everyone to EPIC headquarters.
 V replaces Alark at an oar.
-The 2nd years begin to sing an old dwarven tune, with altered lyrics:
-| *To our lost companions true*  
-| *We will strive to bring you home*  
-| *Aria captive of ???*  
-| *We will rescue you and make him pay*  
+The 2nd years begin to sing an old dwarven tune, with altered lyrics:  
+*To our lost companions true*  
+*We will strive to bring you home*  
+*Aria captive of ???*  
+*We will rescue you and make him pay*  
 
 Arriving at EPIC, the all are welcomed by Halgruk, who states two rules: no weapons and no fighting.
 They learn about the armoury and the vaults near the armoury.
@@ -22,6 +22,6 @@ The gola is to get an item from the middle of the arena to the opposing side.
 A takes out the wizard, E engages the remainder, V obscures the area with a fog cloud, and S finds and removes the item from its container.
 V carries to the item across to the opposing side, to boos from the crowd.
 
-The gang wakes up in a forest without their gear, with a note:
-| *Find your way home.*  
-| -- *Halgruk*  
+The gang wakes up in a forest without their gear, with a note:  
+*Find your way home.*  
+-- *Halgruk*  
