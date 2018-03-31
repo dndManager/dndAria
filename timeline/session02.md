@@ -23,4 +23,4 @@ S goes down but is healed, A and V go down, and the gang are rescued by Hama.
 
 Hama takes the gang to his shack in a clearing with a chicken coop.
 He says that Halgruk is a fair guy.
-He informs the gang that they are 2 days from EPIC, with Grakas half a day earlier.
+He informs the gang that they are half a day from Grakas, and 2 days from EPIC.
