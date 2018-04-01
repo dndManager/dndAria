@@ -13,11 +13,11 @@ When they reach the river, they decide to turn west to investigate the explosion
 They travel 3 hours west (upriver) before the river bends south.
 3000ft south of the bend, they encounter a pool at the bottom of a waterfall.
 On the west bank of the river (across from the gang, about 60') both at the pool and at the top of the falls, 
-are a group of 8 humanoids (5 dwarves and 3 humans), who were lowering boatloads of cargo (crates of shiny oar) down the falls.
+are a group of 8 humanoids (5 dwarves and 3 humans), who were lowering boatloads of cargo (crates of shiny ore) down the falls.
 They shot at the gang, hitting V, before the gang scolded them and retreated along a path upriver to the falls.
 
 After a rest, the gang continued to walk along the river, which bent west from the waterfall.
 Not far from there was a dock, north of which the gang heard clanking sounds (as of a mining operation).
 There was one dwarf heading from the dock north along a path.
 
-A used his unseen servant to steal a rowboat (with 4 oars) and row it back to the gang.
+A used his unseen servant to steal a rowboat (with 4 oars and some rope) and row it back to the gang.
