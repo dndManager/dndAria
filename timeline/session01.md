@@ -1,17 +1,30 @@
 # An EPIC Beginning
 
-After being invited to the EPIC adventuring school, the gang arrive individually (around sundown on the 9th of Yaxkin (?)) at the Gateway Inn.
+After being invited to the EPIC adventuring school via a letter
+
+> Recruit,
+>
+> You are invited to join EPIC. Arrive at The Gateway Inn by sundown on 9th of Yaxk'in. Leave your supplies; all will be provided.
+>
+> To the first go the riches,	
+> 	
+> Halgruk Threnriredr	
+
+the gang arrive individually (around sundown on the 9th of Yaxkin (?)) at the Gateway Inn.
 The innkeeper, Holda, gives each a key to a room.
 Two members, E and V, investigate the area and find boats.
 There is a reunion of sorts at dinner, where the 2nd years who were away for the summer feast.
 
 The next day, the 2nd years row everyone to EPIC headquarters.
 V replaces Alark at an oar.
-The 2nd years begin to sing an old dwarven tune, with altered lyrics:  
-*To our lost companions true*  
-*We will strive to bring you home*  
-*Aria captive of ???*  
-*We will rescue you and make him pay*  
+The 2nd years begin to sing [an old dwarven tune](https://www.youtube.com/watch?v=P8ymgFyzbDo) 
+(or [a shorter version](https://www.youtube.com/watch?v=Pyy_FIYE7EE)), 
+with an additional verse:  
+
+> To our lost, companions true
+> We will strive, to bring you home
+> Aria, captive of Pharas,
+> We will rescue you and make him pay.  
 
 Arriving at EPIC, the all are welcomed by Halgruk, who states two rules: no weapons and no fighting.
 They learn about the armoury and the vaults near the armoury.
