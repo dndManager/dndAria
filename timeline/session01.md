@@ -21,9 +21,9 @@ The 2nd years begin to sing [an old dwarven tune](https://www.youtube.com/watch?
 (or [a shorter version](https://www.youtube.com/watch?v=Pyy_FIYE7EE)), 
 with an additional verse:  
 
-> To our lost, companions true
+> To our lost, companions true,
 >
-> We will strive, to bring you home
+> We will strive, to bring you home.
 >
 > Aria, captive of Pharas,
 >
