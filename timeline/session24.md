@@ -1,6 +1,11 @@
 # Defense of Gnoll Keep
 
-On 25 Mar 2018
+Mysterious shrine to Oghma.
+
+
+Militia heard [Gnoll calls](https://www.soundsnap.com/tags/hyena).
+
+6 of 10 militia fell.
 
 
   
