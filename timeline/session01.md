@@ -29,7 +29,7 @@ with an additional verse:
 >
 > We will rescue you and make him pay.  
 
-Arriving at EPIC, the all are welcomed by [Halgruk](../people/halgruk.html), 
+Arriving at [EPIC](../places/epic.html), the all are welcomed by [Halgruk](../people/halgruk.html), 
 who states two rules: no weapons and no fighting.
 They learn about the armoury and the vaults near the armoury.
 There are no dedicated temples or shrines.
