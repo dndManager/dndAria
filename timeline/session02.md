@@ -19,8 +19,10 @@ Overnight, they are ambushed by wolves.
 A throws meat at them to distract or appease them. 
 V howls to try to intimidate them or drive them away.
 Then follows a slapstick comedy routine involving climbing up and down trees, failing st doing so, and jumping on the backs of wolves.
-S goes down but is healed, A and V go down, and the gang are rescued by Hama.
+S goes down but is healed, A and V go down, and the gang are rescued by 
+[Hama](../people/hama.html).
 
 Hama takes the gang to his shack in a clearing with a chicken coop.
 He says that Halgruk is a fair guy.
-He informs the gang that they are half a day from Grakas, and 2 days from EPIC.
+He informs the gang that they are half a day from [Grakas](../places/grakas.html), 
+and 2 days from EPIC.
