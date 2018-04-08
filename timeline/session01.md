@@ -11,12 +11,12 @@ After being invited to the EPIC adventuring school via a letter
 > Halgruk Threnriredr	
 
 the gang arrive individually (around sundown on the 9th of Yaxkin (?)) at the Gateway Inn.
-The innkeeper, Holda, gives each a key to a room.
+The innkeeper, [Hulda](../people/hulda.html), gives each a key to a room.
 Two members, E and V, investigate the area and find boats.
 There is a reunion of sorts at dinner, where the 2nd years who were away for the summer feast.
 
 The next day, the 2nd years row everyone to EPIC headquarters.
-V replaces Alark at an oar.
+V replaces [Alark](../people/alark.md) at an oar.
 The 2nd years begin to sing [an old dwarven tune](https://www.youtube.com/watch?v=P8ymgFyzbDo) 
 (or [a shorter version](https://www.youtube.com/watch?v=Pyy_FIYE7EE)), 
 with an additional verse:  
@@ -26,7 +26,8 @@ with an additional verse:
 > Aria, captive of Pharas,
 > We will rescue you and make him pay.  
 
-Arriving at EPIC, the all are welcomed by Halgruk, who states two rules: no weapons and no fighting.
+Arriving at EPIC, the all are welcomed by [Halgruk](../people/halgruk.html), 
+who states two rules: no weapons and no fighting.
 They learn about the armoury and the vaults near the armoury.
 There are no dedicated temples or shrines.
 
@@ -36,5 +37,6 @@ A takes out the wizard, E engages the remainder, V obscures the area with a fog 
 V carries to the item across to the opposing side, to boos from the crowd.
 
 The gang wakes up in a forest without their gear, with a note:  
-*Find your way home.*  
--- *Halgruk*  
+
+> *Find your way home.*
+> -- *Halgruk*
