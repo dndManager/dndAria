@@ -1,10 +1,18 @@
-# 
+# Defense of Gnoll Keep
 
-Vargan did an amazing job stabilizing all of the militia. 
-Humans and the gang spend the night in the fireplace room
-with no further problems from the Gnolls. 
+Mysterious shrine to Oghma in a secret (bricked in room)
+in the basement of the keep.
+A small chest contained 4 scrolls:
 
-The Brass Thorn in Eastborne. 
-Everybody is drunk off the Gnoll Blues Booze which is a mixture of all the 
-strongest alcohol. 
-A meal of braised pheasant is served. 
+- Comprehend Languages in Common
+- Tongues in Draconic
+- Speak with Animals Elvish
+- unknown 
+
+
+Militia heard [Gnoll calls](https://www.soundsnap.com/tags/hyena).
+
+6 of 10 militia fell.
+
+
+  
