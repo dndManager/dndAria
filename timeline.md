@@ -17,3 +17,5 @@
 - [Investigating gnoll keep](timeline/session23.html)
 - [Defense of gnoll keep](timeline/session24.html)
 - [unnamed](timeline/session25.html)
+- [unnamed](timeline/session26.html)
+- [Gnoll Fang of Yeenoghu's Headdress](timeline/session27.html)
