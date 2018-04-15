@@ -13,6 +13,8 @@
 
 ## Second year
 
+- [I Know What You Did Last Summer](timeline/session09.html)
+- ...
 - [Heading to Leafland](timeline/session19.html)
 - [Assault on ogre camp](timeline/session20.html)
 - [Babysitting](timeline/session21.html)
