@@ -7,6 +7,9 @@
 - [The Big Bang Theory](timeline/session03.html)
 - [No Way In](timeline/session04.html)
 - [Top Gear](timeline/session05.html)
+- [To Leoni and Beyond](timeline/session06.html)
+- [The Red Badge of Pilferage, or: The Goblin with the Lava Tattoo](timeline/session07.html)
+- [Tigris and the Fraidies](timeline/session08.html)
 
 ## Second year
 
