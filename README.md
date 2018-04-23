@@ -1,7 +1,7 @@
 # D&D Aria
 
 This is the setting for an adventure with Sevro, Vargan, Errich, and Alidris 
-who are 4 students at [EPIC](places/EPIC.html).
+who are 4 students at [EPIC](places/epic.html).
 
 
 
@@ -44,7 +44,7 @@ For more detailed information, visit the [timeline](timeline.html).
 
 - [Fortuna Peninsula](places/fortuna.html)
   - [Leoni](places/leoni.html)
-  - [EPIC](places/EPIC.html)
+  - [EPIC](places/epic.html)
   - [Grakas](places/grakas.html)
   - [The Gateway](places/gateway.html)
 
