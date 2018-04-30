@@ -24,3 +24,5 @@
 - [unnamed](timeline/session25.html)
 - [unnamed](timeline/session26.html)
 - [Gnoll Fang of Yeenoghu's Headdress](timeline/session27.html)
+- [Welcome to Siridila](timeline/session28.html)
+- [unnamed](timeline/session29.html)
