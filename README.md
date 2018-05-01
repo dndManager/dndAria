@@ -11,6 +11,14 @@ If you want to edit it, edit the markdown (md) files using
 by editing the files on the 
 [github site](https://github.com/dndManager/dndAria).
 
+## [Characters](characters.html)
+
+- Alidris, Elf Wizard
+- Errich, Halfling Ranger
+- Sevro, Gnome Rogue
+- Vargan, Dwarf Cleric
+- Boert, Half-elf Warlock
+
 ## [Timeline](timeline.html)
 
 The adventurers have discovered two orbs: red and blue. 
