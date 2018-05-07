@@ -3,19 +3,6 @@
 More [information](https://roll20.net/compendium/dnd5e/Ability%20Scores#toc_4)
 about ability checks here:
 
-## Difficulty
-
-|-|-|
-|Task Difficulty|DC|
-|-|-|
-|Very Easy|5|
-|Easy|10|
-|Medium|15|
-|Hard|20|
-|Very Hard|25|
-|Nearly impossible|30|
-|-|-|
-
 ## Skills
 
 - Strength
@@ -42,4 +29,17 @@ about ability checks here:
   - Performance
   - Persuasion
   
+
+## Difficulty
+
+|-|-|
+|Task Difficulty|DC|
+|-|-|
+|Very Easy|5|
+|Easy|10|
+|Medium|15|
+|Hard|20|
+|Very Hard|25|
+|Nearly impossible|30|
+|-|-|
   
