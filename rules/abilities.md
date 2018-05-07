@@ -24,7 +24,7 @@ about ability checks here:
   - Acrobatics
   - Sleith of Hand
   - Stealth
--Intelligence
+- Intelligence
   - Arcana
   - History
   - Investigation
