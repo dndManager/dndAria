@@ -2,7 +2,7 @@
 
 The gang take a short rest, during which time the skeleton remains vanish.
 They move forward through the tunnel,
-and encounter a large circular chamber with four entrances in the cardinal directions
+and encounter a large (90' diameter) circular chamber with four entrances in the cardinal directions
 and a set of stairs leading down against the NW wall.
 In the center of the ceiling is a very tall opening,
 possibly through the tall spire as a chimney.
@@ -12,7 +12,7 @@ Again, they vanish after defeat.
 
 The gang explores the chamber.
 
-After exploring the chamber, they hear movement in the north passage.
+After exploring the chamber, they see a light in the north passage.
 Two humans call out to the gang.
 But they trigger a trap, and they fall.
 The gang saves them, and one regains consciousness.
