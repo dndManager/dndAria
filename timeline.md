@@ -14,6 +14,10 @@
 ## Second year
 
 - [I Know What You Did Last Summer](timeline/session09.html)
+- [Dem Bones](timeline/session10.html)
+- [Net Profit](timeline/session11.html)
+- [Pit Bull](timeline/session12.html)
+- [Skeleton Crew](timeline/session13.html)
 - ...
 - [Heading to Leafland](timeline/session19.html)
 - [Assault on ogre camp](timeline/session20.html)
