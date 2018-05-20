@@ -31,4 +31,28 @@ This is the Order of the Phoenix encampment.
 The gang meets a human, Rabud Khakher, a worshipper of Lira (goddess of joy), who is here for a few weeks before leaving again for a few weeks for temple upkeep.
 They learn that the temple of Omba is half a day north of the encampment.
 
-The gang heads north...
+The gang heads north along the road through the woods. 
+The road turns into a path with several smaller paths branching off.
+About 7 hours later, they arrive at a two-story stone structure, overgrown with plants and falling apart.
+The area around the structure is an overgrown clearing in the woods.
+E makes sure the area is safe.
+There might be old, lightning bolt structure on the NE corner of the roof (?).
+The stone is not native to this area; it's soft.
+The entry is on the south, and it lacks a door.
+The windows on the main floor are glass but broken.
+
+Inside is a large room, 40' wide (E-W) and 60' long (N-S).
+There are stone rafters above with ravens perched atop.
+The roof is petrified wood.
+The windows on the upper level are stained glass, depicting images of eyes, storms, lightning, and clouds.
+At the opposite end of the room is a raised floor and a large carving on the wall.
+The carving looks like a blob with wiggly lines below it:
+perhaps a cloud with rain, perhaps water tumbling, perhaps an octopus.
+
+Investigating the structure revealed nothing more.
+A cast detect magic, and had a look around.
+Nothing was magical except for the ravens, which transformed into imps and attacked.
+Shortly thereafter, a bearded devil ran into the temple from the entrance and surprised E.
+The battle was tough, and A, caught out on the front line, died.
+The gang almost lost the battle, but managed to defeat the fiends.
+V cast gentle repose on A's body to keep it from decaying.
