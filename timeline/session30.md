@@ -1,4 +1,4 @@
-# The Dream
+# Common Dreams
 
 Sevro, Errich, and Boert have a simultaneous dream in a hazy world
 where they can communicate telepathically but no sounds are heard. 
