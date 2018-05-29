@@ -22,7 +22,7 @@ time.
 There is a wooden Temple for Mystra (god of knowledge), 
 with a 5-pointed star on front door.
 Built into the side of the hill that leads directly up to the wealthy district,
-a Tavern known as The Cave sits next to a brothel named The Shagger.
+a Tavern known as The Cave sits next to a brothel named The Hairy Cave.
 
 The Cave's barkeep is a human named Er Mavez, who has an extremely ugly face 
 due to a plethora of moles. He is stout, but it appears difficult for him to 
