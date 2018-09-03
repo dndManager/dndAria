@@ -38,4 +38,8 @@
 - [Tales of Siridila](timeline/session28.html)
 - [Lavatory of the Cave](timeline/session29.html)
 - [Common Dreams](timeline/session30.html)
-- [Chasing Waterfalls](timeline/session31.html)
+- [Elementary Encounters](timeline/session31.html)
+- [Chasing Waterfalls](timeline/session32.html)
+- [Unwelcome Company](timeline/session33.html)
+
+## Season 4: Leafland Mysteries
