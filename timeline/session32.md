@@ -35,5 +35,6 @@ A battle ensues, in which the humans counterspell, and the leader summons a fire
 The gang loses consciousness.
 
 The gang are awakened by a half-elf elver named Boert, who E and S recognize from a dream.
+A is with them, but doesn't wake up.
 They are all on a raft, heading over a waterfall, and B decided to help save them.
 Together, they manage to get the raft to the shore.
