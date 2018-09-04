@@ -11,7 +11,7 @@ E returns, and hears one voice saying: "stay quiet, help is coming".
 E reports this to A and V.
 The conclude that the best course of action is to attack.
 V asks if Hagatha knows how to get to Leafland (she claims not to know).
-A battle ensues.
+A battle ensues, and the cauldron (and part of the wall) is shattered.
 Hagatha barks like a dog,
 and 2 hags leap out of the room upstairs and onto the ground outside, running away.
 Hagatha pulls a lever and the dining room floor falls into the water,
