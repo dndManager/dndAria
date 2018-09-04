@@ -43,3 +43,10 @@
 - [Unexpected Company](timeline/session33.html)
 
 ## Season 4: Leafland Mysteries
+
+- [Into the Green Wall](timeline/session34.html)
+- [Down the Rabbit Hole](timeline/session35.html)
+- [Scales and Scalps](timeline/session36.html)
+- [The Wicked Witch of the East](timeline/session37.html)
+- [Dead Wood](timeline/session38.html)
+
