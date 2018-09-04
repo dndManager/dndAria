@@ -53,3 +53,6 @@ A decides to identify the dagger and amulet.
 The dagger has a green gem in the butt of the hilt, and the gem has a cloudy swirl inside it.
 It is a magical dagger that can do extra psychic damage on sneak attacks.
 The amulet is an amulet of rebirth.
+
+They will head to Leafland tomorrow.
+B decides to join the gang there, since there are supposed to be rare eels there whose eggs he can harvest.
