@@ -40,6 +40,6 @@
 - [Common Dreams](timeline/session30.html)
 - [Elementary Encounters](timeline/session31.html)
 - [Chasing Waterfalls](timeline/session32.html)
-- [Unwelcome Company](timeline/session33.html)
+- [Unexpected Company](timeline/session33.html)
 
 ## Season 4: Leafland Mysteries
