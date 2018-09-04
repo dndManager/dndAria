@@ -36,3 +36,7 @@ They send A's raven back and forth to keep track of the way, but it lost the way
 
 B surmises that this is the Feywild, based on the stories from his grandparents.
 But the stories never included the mossy bog.
+
+The gang camp for a rest.
+They are ambushed by 5 lizardfolk, but kill 3, and the remaining 2 run away.
+
