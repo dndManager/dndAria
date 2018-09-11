@@ -27,8 +27,8 @@
 
 ## Season 3: Journey to Siridila
 
-- [Heading to Leafland](timeline/session20.html)
-- [Assault on ogre camp](timeline/session21.html)
+- [Abandon Ship](timeline/session20.html)
+- [Ogre Ergo Gore](timeline/session21.html)
 - [Adventures in Babysitting](timeline/session22.html)
 - [The Crossroads](timeline/session23.html)
 - [Investigating gnoll keep](timeline/session24.html)
