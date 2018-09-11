@@ -30,11 +30,11 @@
 - [Abandon Ship](timeline/session20.html)
 - [Ogre Ergo Gore](timeline/session21.html)
 - [Adventures in Babysitting](timeline/session22.html)
-- [The Crossroads](timeline/session23.html)
-- [Investigating gnoll keep](timeline/session24.html)
-- [Defense of gnoll keep](timeline/session25.html)
-- [unnamed](timeline/session26.html)
-- [Gnoll Fang of Yeenoghu's Headdress](timeline/session27.html)
+- [The Crossroads](timeline/session23.html)*
+- [Investigating gnoll keep](timeline/session24.html)*
+- [Defense of gnoll keep](timeline/session25.html)*
+- [unnamed](timeline/session26.html)*
+- [Gnoll Fang of Yeenoghu's Headdress](timeline/session27.html)*
 - [Tales of Siridila](timeline/session28.html)
 - [Lavatory of the Cave](timeline/session29.html)
 - [Common Dreams](timeline/session30.html)
