@@ -42,9 +42,9 @@ porch.
 
 Later that day the children's father comes running down the path.
 Apparently the petrification only lasted 24 hours.
-> Errich: Thank you for coming Mr and Mrs...?  
-> Father: Stone. Peter Stone. And this is my wife, Gemstone.  
-> Mother: Gemstone Stone. Nice to meet you.
+> Errich: "Thank you for coming Mr and Mrs...?"  
+> Father: "Stone. Peter Stone. And this is my wife, Gemstone."  
+> Mother: "Gemstone Stone. Nice to meet you."  
 The gang reunits the children with their parents and bring them 20 head of 
 cattle with fencing.
 They fence a pasture for the cows.
