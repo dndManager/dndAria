@@ -51,6 +51,7 @@ attempts a desparate, but I'll fated attempt to escape.
 S claims Gnoll Fang of Yeenoghu's 
 [headdress](https://previews.123rf.com/images/stylishtramp/stylishtramp1305/stylishtramp130500751/19786450-native-american-indian-chief-headdress-indian-chief-mascot-indian-tribal-headdress-indian-headdress-.jpg) 
 for himself.
+V puts the Gnoll Fang of Yeenoghu's head on a stake, as a warning to the other gnolls.
 They also find 2sp.
 
 After a short rest, the gang return to the keep.
