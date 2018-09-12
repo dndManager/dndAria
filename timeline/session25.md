@@ -24,9 +24,12 @@ The small chest contained 4 scrolls:
 - unknown 
 
 Militia heard [Gnoll calls](https://www.soundsnap.com/tags/hyena).
-The gang sets up a defense of the keep:
-V at the front door, A and S in the library,
-E on the roof.
+It's dark, and rainy.
+The gang do some scouting, but don't see the gnolls.
+So they set up a defense of the keep, and wait.
+
+V is at the front door, A and S are in the library,
+and E is on the roof.
 E directs four militiamen on the roof.
 Two militiamen are in the back, protecting windows.
 Two militiamen are in the armour room, protecting the windows.
