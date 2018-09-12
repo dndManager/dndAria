@@ -1,4 +1,4 @@
-# unnamed*
+# No Business Like Gnoll Business
 
 V did an amazing job stabilizing all of the militia.
 They dispose of all the gnoll bodies.
