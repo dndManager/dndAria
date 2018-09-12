@@ -49,4 +49,4 @@
 - [Scales and Scalps](timeline/session36.html)
 - [Wicked Witch of the East](timeline/session37.html)
 - [Dead Wood](timeline/session38.html)
-
+- [I am the Lizard King](timeline/session39.html)
