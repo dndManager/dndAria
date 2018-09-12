@@ -1,4 +1,4 @@
-# Defense of Gnoll Keep*
+# Battle of Gnoll's Keep
 
 E negotiates with the militia for half of the remaining loot.
 
