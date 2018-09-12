@@ -1,4 +1,4 @@
-# Gnoll Fang of Yeenoghu's Headdress*
+# Gnolls of a Feather
 
 The gang hear gnoll sounds east southeast of the keep.
 They double-time in that direction for an hour and a half.
