@@ -1,4 +1,4 @@
-# The Crossroads*
+# Road to Ruin, or: Ferris Muler's Day Off
 
 S denies knowing Bart.
 Bart has to go, but offers to meet at the inn (Foolish Gambler) later.
