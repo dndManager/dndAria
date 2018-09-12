@@ -31,7 +31,7 @@
 - [Ogre Ergo Gore](timeline/session21.html)
 - [Adventures in Babysitting](timeline/session22.html)
 - [Road to Ruin, or: Ferris Muler's Day Off](timeline/session23.html)
-- [Keep and Secrets](timeline/session24.html)
+- [Keep Secrets](timeline/session24.html)
 - [Battle of Gnoll's Keep](timeline/session25.html)
 - [No Business Like Gnoll Business](timeline/session26.html)
 - [Gnolls of a Feather](timeline/session27.html)
