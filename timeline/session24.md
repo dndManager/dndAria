@@ -11,9 +11,9 @@ S keeps a lookout.
 E starts going through the packs.
 He finds: 
 - ep/gp/pp:
- - 19/20/8 in one room
- - 19/11/5 in another
- - 26/35/8 total upstairs
+  - 19/20/8 in one room
+  - 19/11/5 in another
+  - 26/35/8 total upstairs
 - some silver and copper
 
 When V and A go out the window the escaping gnoll went through,
