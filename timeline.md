@@ -50,4 +50,4 @@
 - [Wicked Witch of the East](timeline/session37.html)
 - [Dead Wood](timeline/session38.html)
 - [I am the Lizard King](timeline/session39.html)
-- [Tom, Dick, and Harry](timeline/session40.html) - Boert backstory
+- [Tom, Dick, and Harry; or: A Boert Mission](timeline/session40.html) - Boert backstory
