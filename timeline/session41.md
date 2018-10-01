@@ -74,7 +74,7 @@ The unicorns leap a small ravine, but it knocks Drazda off the disk, and she tum
 B, E, and V stop; V dismounts and attends to her.
 
 Meanwhile, A consults the unicorn he rides and hatches a plan,
-which he probably called "Death From Above".
+which he probably called "I Love the Smell of Napalm in the Morning".
 He casts Fly on the unicorn, and they double back toward the lions.
 A casts Fireball from the air, and incinerates 4 of them, and making a lonely, weaping widow out of the fifth.
 As the smoke rises, it spells out "EPIC".
