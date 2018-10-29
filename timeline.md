@@ -54,4 +54,5 @@
 - [Dexter a Lion Or, Sinister a Unicorn Argent](timeline/session41.html)
 - [Basement Dwellers](timeline/session42.html)
 - [Up In Smoke](timeline/session43.html)
+- [Bring Them All Back](timeline/session44.html)
 
