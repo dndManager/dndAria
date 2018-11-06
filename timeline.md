@@ -55,4 +55,5 @@
 - [Basement Dwellers](timeline/session42.html)
 - [Up In Smoke](timeline/session43.html)
 - [Bring Them All Back](timeline/session44.html)
+- [Sober Second Thought](timeline/session45.html)
 
