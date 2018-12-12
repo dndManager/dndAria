@@ -62,7 +62,7 @@ The gang retreat, defeated.
 They return to the fireplace room.
 E investigates the final door here: the reinforced wooden door.
 He finds a guillotine trap.
-V tries to trigger the trap at a distance with his quarterstaff.
+K tries to trigger the trap at a distance with his quarterstaff.
 Again he is offered the help of the Storm Lord, and again he refuses.
 He fails spectacularly, and takes a guillotine to the face.
 E casts Cure Wounds on him.
