@@ -39,7 +39,7 @@
 - [Lavatory of the Cave](timeline/session29.html)
 - [Common Dreams](timeline/session30.html)
 - [Elementary Encounters](timeline/session31.html)
-- [Chasing Waterfalls](timeline/session32.html)
+- [Chasing Waterfalls, or: We All Fall Down](timeline/session32.html)
 - [Unexpected Company](timeline/session33.html)
 
 ## Season 4: Leafland Mysteries
@@ -57,4 +57,5 @@
 - [Bring Them All Back](timeline/session44.html)
 - [Sober Second Thought](timeline/session45.html)
 - [A Little Rusty](timeline/session46.html)
+- [Smoke and Mirrors](timeline/session47.html)
 
