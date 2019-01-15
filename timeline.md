@@ -50,7 +50,7 @@
 - [Wicked Witch of the East](timeline/session37.html)
 - [Dead Wood](timeline/session38.html)
 - [I am the Lizard King](timeline/session39.html)
-- [Tom, Dick, and Harry; or: A Boert Mission](timeline/session40.html) - Boert backstory
+- [Tom, Dick, and Harry, or: A Boert Mission](timeline/session40.html) - Boert backstory
 - [Dexter a Lion Or, Sinister a Unicorn Argent](timeline/session41.html)
 - [Basement Dwellers](timeline/session42.html)
 - [Up In Smoke](timeline/session43.html)
@@ -58,4 +58,5 @@
 - [Sober Second Thought](timeline/session45.html)
 - [A Little Rusty](timeline/session46.html)
 - [Smoke and Mirrors](timeline/session47.html)
+- [Blowing Off Steam, or: Dust to Dust](timeline/session48.html)
 
