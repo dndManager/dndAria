@@ -1,6 +1,11 @@
 # D&D Aria
 
-This is the setting for an adventure with 4 students at [EPIC](places/epic.html): Sevro, Vargan, Errich, and Alidris and an eel-farmer named Boert.
+This is the setting for an adventure with 4 students at [EPIC](places/epic.html): Sevro, Vargan, Errich, and Alidris.
+Boert joined the adventure by rescuing the crew from falling over a waterfall.
+Sevro disappeared jumping into a termite mound that, for most of the adventurers
+was a portal to the Fey Wild. 
+Boert was abducted by an Invisible Stalker sent by his patron. 
+Krotho was found in a dungeon encased in ice. 
 
 
 
@@ -12,11 +17,12 @@ by editing the files on the
 
 ## [Characters](characters.html)
 
-- Alidris, Elf Wizard
-- Errich, Halfling Ranger
-- Sevro, Gnome Rogue
-- Vargan, Dwarf Cleric
-- Boert, Half-elf Warlock
+- Alidris Tolemnon, a Elf Wizard
+- Errich Tealeaf, a Halfling Ranger
+- Sevro Raulnor, a Gnome Rogue (lost upon jumping into a Fey Wild portal)
+- Vargan Stormbelly, a Hill Dwarf Cleric
+- Boert Longyear, Half-elf Warlock (abducted by an Invisible Stalker)
+- Krotho Stump, a Hill Dwarf Monk
 
 ## [Timeline](timeline.html)
 
@@ -30,7 +36,6 @@ where the orbs were discovered and a regional map of the relative positions.
 For more detailed information, visit the [timeline](timeline.html).
 
 ## People
-
 
 - [Fortuna Peninsula](places/fortuna.html)
   - [EPIC](places/epic.html)
