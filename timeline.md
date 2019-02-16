@@ -60,4 +60,4 @@
 - [Smoke and Mirrors](timeline/session47.html)
 - [Blowing Off Steam, or: Dust to Dust](timeline/session48.html)
 - [Punch-Drunk Lava](timeline/session49.html)
-
+- [Breaking Ground; or: The Element of Surprise](timeline/session50.html)
