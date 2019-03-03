@@ -43,3 +43,4 @@ They manage to get through the 8 meteor traps they encountered on their way to t
 A only fell once.
 
 The gang spends the night with the univorns, exchanging information.
+The pools are now glowing under the starlight.
