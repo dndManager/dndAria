@@ -42,5 +42,5 @@ and head back toward the unicorn watering hole.
 They manage to get through the 8 meteor traps they encountered on their way to the plateau.
 A only fell once.
 
-The gang spends the night with the univorns, exchanging information.
+The gang spends the night with the unicorns, exchanging information.
 The pools are now glowing under the starlight.
