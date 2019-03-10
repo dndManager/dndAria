@@ -63,3 +63,4 @@
 - [Breaking Ground; or: The Element of Surprise](timeline/session50.html)
 - [Dwarven Disappointment, or: Burning Questions](timeline/session51.html)
 - [Fly, You Fools!](timeline/session52.html)
+- [I Spy With My Little Eye](timeline/session53.html)
