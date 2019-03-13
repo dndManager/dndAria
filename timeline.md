@@ -64,3 +64,4 @@
 - [Dwarven Disappointment, or: Burning Questions](timeline/session51.html)
 - [Fly, You Fools!](timeline/session52.html)
 - [I Spy With My Little Eye](timeline/session53.html)
+- [Unseen Solution](timeline/session54.html)
