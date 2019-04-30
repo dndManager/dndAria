@@ -72,4 +72,6 @@
 - [(A-ri-a!) Say, Do You Remember...?](timeline/session56.html)
 - [Contract Labour; or: Working Under the Table](timeline/session57.html)
 - [Strike](timeline/session58.html)
+- [Homewreckers; or: Stop Hurting Your Friend](timeline/session59.html)
+- [Questionable Premises](timeline/session60.html)
 
