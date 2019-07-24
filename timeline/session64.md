@@ -1,4 +1,4 @@
-# Uplift and In Spire
+# Uplift and In Spire (stub)
 
 The gang learn the habits of the hobgoblins.
 They fly around high in the dark and discover (using Locate Object) that the orb is within the spire, about half way up.
