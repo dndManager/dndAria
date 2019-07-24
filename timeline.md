@@ -66,7 +66,7 @@
 - [I Spy With My Little Eye](timeline/session53.html)
 - [Unseen Solution](timeline/session54.html)
 
-## Season 5: Return to the Prime Material Plane
+## Season 5: Triumphant Returns
 
 - [You Can't Go Home Again](timeline/session55.html)
 - [(A-ri-a!) Say, Do You Remember...?](timeline/session56.html)
@@ -75,4 +75,9 @@
 - [Homewreckers; or: Stop Hurting Your Friend](timeline/session59.html)
 - [Questionable Premises](timeline/session60.html)
 - [Better Homes and Goblins](timeline/session61.html)
+- [Fire in the Hole (stub)](timeline/session62.html)
+- [Spawn Point Blank (stub)](timeline/session63.html)
+- [Uplift and In Spire (stub)](timeline/session64.html)
+- [Back to School (stub)](timeline/session65.html)
+- [An EPIC Ending (stub)](timeline/session66.html)
 
